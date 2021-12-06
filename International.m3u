@@ -1,0 +1,14 @@
+#EXTINF:0 tvg-logo="https://i1.sndcdn.com/avatars-000239542489-yngg9p-t500x500.jpg" group-title="LIVE TV NEWS",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/583-5833511_al-jazeera-logo-png-al-jazeera-logo-vector.png" group-title="LIVE TV NEWS",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/640px-Russia-today-logo.svg.png" group-title="LIVE TV NEWS",Russia Today
+https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="LIVE TV NEWS",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.pcne.tv/files/images/2017/our%20company/Phoenix_InfoNews.svg.png" group-title="LIVE TV NEWS",凤凰卫视资讯台
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
